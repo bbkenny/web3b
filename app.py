@@ -102,4 +102,9 @@ st.divider()
 st.caption("""
 Built with ❤️ for workers' rights | 
 Solana ∙ Crossmint ∙ Mistral AI ∙ ElevenLabs ∙ Coral Protocol
+""")# Footer
+st.divider()
+st.caption("""
+Built with ❤️ for workers' rights | 
+Solana ∙ Crossmint ∙ Mistral AI ∙ ElevenLabs ∙ Coral Protocol
 """)
